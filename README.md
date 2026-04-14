@@ -15,7 +15,8 @@ If you want to run it, you’ll need to install [Manim](https://docs.manim.commu
 
 
 
-https://github.com/user-attachments/assets/9d486d9a-7b07-483b-9753-01e934b2d7f3
+<video src="https://github.com/user-attachments/assets/9d486d9a-7b07-483b-9753-01e934b2d7f3" controls autoplay loop muted></video>
+
 
 ## Scientific Background
 
