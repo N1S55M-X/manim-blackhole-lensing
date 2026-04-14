@@ -13,9 +13,9 @@ It is meant as an illustrative example of how Manim can be used to visualize gra
 I have not packaged it as a reproducible repo with environment setup, requirements, or documentation.  
 If you want to run it, you’ll need to install [Manim](https://docs.manim.community/) and `numpy` yourself.
 
+  
+[▶ Watch the full animation](https://github.com/user-attachments/assets/9d486d9a-7b07-483b-9753-01e934b2d7f3)
 
-
-<video src="https://github.com/user-attachments/assets/9d486d9a-7b07-483b-9753-01e934b2d7f3" controls autoplay loop muted></video>
 
 
 ## Scientific Background
